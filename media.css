@@ -1,0 +1,184 @@
+@media (max-width: 500px) {
+  nav p {
+    font-size: 40px;
+  }
+body {
+  overflow-x: hidden;
+  width: 100%;
+}
+  h3 {
+    font-size: 10px;
+  }
+  .top a {
+    display: block;
+    margin-left: 90px;
+    margin-right: -62px;
+  }
+  .top h3 {
+    margin-top: 37px
+  }
+  .top li {
+    margin: 0 auto;
+    padding: 0 auto;
+  }
+  .top ul {
+    padding-bottom: 0;
+  }
+  .top {
+    height: auto;
+    width: 100%;
+
+  }
+  #icon {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    margin-left: 182px;
+    margin-top: 9px;
+    opacity: .5;
+  }
+.popularposts {
+  font-size: 21px;
+  padding-top: 20px;
+}
+  .jellyfish .col-4 {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 36px;
+  }
+.jellyfish .col-4 a {
+    height: 340px;
+
+}
+.col-2 {
+  width: 99%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.col-2 h3 {
+  text-align: center;
+  color:#cccccc;
+  font-size:20px;
+
+}
+.col-2 h2 {
+  text-align: center;
+}
+#circle {
+  margin-left: 105px;
+  height: 150px;
+}
+  ul {
+    padding: 0;
+    padding-bottom: 100px;
+  }
+
+  .icon {
+    position: absolute;
+    margin-top: 11px;
+    margin-left: 177px;
+    width: 15%;
+    height: 15%;
+  }
+  .col-1 {
+    display: block;
+    width: 91%;
+  }
+
+  .col-1 h3 img {
+    display: none;
+  }
+  .col-1 p {
+    /*margin-right: -130%;*/
+    width: 90%;
+  }
+  .col-1 h3 {
+    margin: 0;
+    padding: 0;
+
+  }
+  .sidebarheading  {
+    display: none;
+  }
+  .sidebarphoto img {
+    width: 89%;
+  }
+.sidebarphoto h3 {
+  font-size: 12px;
+  margin-bottom: 40px;
+  margin-left: 273px;
+}
+  .lastcontent {
+    display: none;
+  }
+
+
+.top li span {
+  display: none;
+}
+
+.col-1 h1 {
+  width: 90%;
+}
+/*span {
+  padding-right: 0;
+}*/
+
+footer {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  /*padding-top: 71px;*/
+}
+.nav {
+padding-top: 51px;
+}
+
+.ironyard {
+padding-top: 75px;
+}
+
+footer a {
+  margin-left: -310px;
+  padding-bottom: 58px;
+}
+
+.logo {
+  height: 100px;
+}
+
+@media (min-width:501px) and (max-width: 940px) {
+  nav p {
+    font-size: 80px;
+  }
+  h3 {
+    font-size: 30px;
+  }
+
+  .top h3 {
+    margin-top: 37px
+  }
+}
+
+@media (min-width:685px) and (max-width:746px) {
+  nav p {
+    margin-bottom: -58px;
+    font-size: 73px;
+  }
+
+}
+
+@media (min-width:500px) and (max-width:685px) {
+  nav p {
+    font-size: 50px;
+    margin-top: 80px;
+  }
+}
+
+@media (max-width:500px) {
+.col-4 {
+  display: block;
+}
+}

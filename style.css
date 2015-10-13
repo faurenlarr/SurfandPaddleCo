@@ -1,0 +1,290 @@
+
+body {
+  width:100%;
+  margin:0;
+  padding:0;
+
+}
+
+ a {
+   text-decoration: none;
+ color:black; opacity:0.5;
+  display: inline-block;
+}
+
+
+.top {
+    padding:0;
+    margin:0;
+    background-image: url(https://unsplash.com/photos/5zM-ueZsgzI/download);
+    width: 100%;
+    height: 400px;
+    display: inline-block;
+    overflow-x: hidden;
+  }
+
+.top h3 {
+  color:black;
+  margin: 0;
+  opacity: 0.5;
+  font-size: 17px;
+  text-align: center;
+  font-family: 'Khula', Arial;
+}
+
+  nav p {
+    color:white;
+    margin-bottom: -45px;
+    font-size: 100px;
+    text-align:center;
+    font-family: 'Khula', Impact;
+  }
+
+.top li {
+  list-style: none;
+  display: inline-block;
+  font-size: 20px;
+  padding-right:10px;
+}
+.top img {
+  width:15px;
+  height: 15px;
+}
+
+  .col-1 {
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 50px;
+    width: 40%;
+    float:left;
+  }
+
+  .col-1 h1 {
+    font-size: 55px;
+    margin-bottom: 0;
+    color: #0f80a0;
+
+  }
+
+  .col-1 h3 {
+    color: #cccccc;
+    font-size: 10px;
+    padding-bottom:15px;
+   }
+
+  .col-2 {
+    width: 40%;
+    float:right;
+    margin: 0;
+    padding: 0;
+  }
+  .col-2 h2 {
+    font-family: 'Oswald', Arial;
+    color: #0f80a0;
+  }
+.col-2 h3 {
+  color:#cccccc;
+  font-size:15px;
+  font-family: 'Oswald', Arial;
+}
+
+  .col-1 h3 {
+    color: #cccccc;
+    font-size: 10px;
+    font-family: 'Khula', Arial;
+    margin-top: -10px;
+    padding-left: 5px;
+  }
+
+.col-1 h2 {
+  font-family: 'Khula', Arial;
+  color: navy ;
+  margin-bottom: 0;
+  margin-top: 0}
+
+
+.aboutthisad {
+  color: #cccccc;
+font-size: 12px;
+text-decoration: underline;
+/*padding-left: 1020px;*/
+font-family: 'Khula', Arial;
+
+
+}
+
+.sidebarphoto h3 {
+  margin: 0;
+}
+.sidebarphoto img {
+  width: 50%;
+   height: auto;
+   margin-left: 17px;
+
+
+ }
+
+.sidebarheading {
+  font-family: 'Oswald', Arial;
+  color:navy;
+  /*padding-left: 700px;
+  margin-top: 50px;*/
+  margin-bottom: 0;
+}
+.lastcontent {
+  font-family: 'Khuli', Arial;
+   /*width: 25%;
+   height:40%;
+   float:right;
+   margin-right: 60px;
+   color:black;
+   opacity: .5;
+   margin-top:0;*/
+   width: 50%;
+ }
+.col-4 p {
+  color:#0f80a0;
+}
+  .col-1 p {
+    font-family: 'Khula', Arial;
+  }
+.container h1 {
+  font-family: 'Khula', Arial;
+}
+
+div .container {
+  display: inline-block;
+  width: 99%;
+}
+strong {
+  color:darkblue;
+  font-family: 'Khula', Arial;
+}
+
+span {
+  margin-left: 20px;
+  padding-right:700px ;
+  font-family: 'Khula', Arial;
+}
+
+.col-one h1 {
+  font-family: 'Oswald', Arial;
+  color:#0f80a0;
+  margin: 0;
+
+}
+
+
+
+.contenttab img {
+  padding-bottom: 100px;
+}
+
+.col-4 {
+  width: 24%;
+   display:inline-block;
+ }
+.jellyfish {
+  width:100%;
+}
+.popularposts {
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  clear: both;
+  border-top: 2px solid #cccccc ;
+  width: 100%;
+}
+
+.jellyfish img {
+  width: 100%;
+  height: auto
+}
+
+div .jellyfish {
+
+  padding-top: 30px;
+  padding-bottom: -3px;
+}
+
+
+
+.border {
+  border-left: #cccccc solid 2px;
+   padding-left: 20px;
+   height:40px;
+ }
+/*.col-2 span {text-decoration: underline}*/
+#radical {
+  color: navy;
+  padding-top: 10px;
+  font-size: 20px;
+  font-family: 'Khula', Arial;
+}
+
+
+.jellyfish .col-4 img {
+    opacity: 0.5;
+}
+
+.jellyfish .col-4 a {
+  background-color: teal;
+  width: 100%;
+height: 327px;
+
+
+}
+
+
+.jellyfish .col-4 img:hover {
+  opacity: 1;
+}
+
+
+.jellyfish .col-4 {
+  width: 24.7%;
+
+}
+.col-4 a {
+  position: relative;
+}
+
+.col-4 p {
+  position: absolute;
+  margin-top: -44px;
+  margin-left: 10px;
+  color: teal;
+  font-size: 25px;
+  font-family: 'Oswald', Arial;
+  font-weight: bold;
+
+}
+footer a {
+  color: white;
+  font-size: 15px;
+  font-family: 'Oswald', Arial;
+}
+footer {
+  background-color: #073451;
+}
+
+.nav2 a {
+  padding-left: -276px;
+
+}
+ul {
+  list-style-type: none;
+}
+
+footer ul li {
+  display: inline-block;
+  padding-left: 300px;
+}
+
+footer ul:nth-child(1) li {
+
+}
+
+.bottomcontainer {
+  clear: both;
+}
