@@ -137,16 +137,19 @@ padding-top: 51px;
 }
 
 .ironyard {
-padding-top: 75px;
+padding-top: 110px;
 }
 
 footer a {
-  margin-left: -310px;
-  padding-bottom: 58px;
+  margin-left: -293px;
+  padding-bottom: 16px;
 }
 
 .logo {
-  height: 100px;
+  height: 20px;
+}
+.logo img {
+  height: 100px
 }
 
 @media (min-width:501px) and (max-width: 940px) {
