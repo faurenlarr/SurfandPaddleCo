@@ -6,6 +6,7 @@ body {
 
 }
 
+<<<<<<< HEAD
  a {
    text-decoration: none;
  color:black; opacity:0.5;
@@ -189,6 +190,7 @@ span {
 }
 .popularposts {
   text-align: center;
+
   font-size: 50px;
   font-weight: bold;
   clear: both;
